@@ -3,19 +3,18 @@
 Hi 👋 My name is Nijat Mansimov
 ===============================
 
-Backend developer
+Software Engineer
 -----------------
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 I've been programming for 3 years now and finally found myself as a backend developer.
 
 * 🌍  I'm based in Baku/Azerbaijan
 * ✉️  You can contact me at [mansimovnijat@gmail.com](mailto:mansimovnijat@gmail.com)
 * ✉   My Personal Portfolio Website <a href="https://nijat-mansimov.github.io/my-blog/" target="_blank">Go to site</a>
-* 🧠  I'm learning Java
 
-<a href="https://www.github.com/Nijat-Mansimov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Nijat-Mansimov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/gt-nm-1711" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/gt-nm-1711?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
