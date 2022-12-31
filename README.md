@@ -5,7 +5,7 @@ Hi 👋 My name is Nijat Mansimov
 
 Software Engineer
 -----------------
-<img align="right" alt="Coding" width="100" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="25" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 I've been programming for 3 years now and finally found myself as a backend developer.
 
